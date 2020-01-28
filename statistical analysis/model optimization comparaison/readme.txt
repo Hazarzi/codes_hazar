@@ -1,0 +1,1 @@
+A script for comparing models using 5x2 fold CV with an implementation of a statistical test for calculating the F value or pairwise comparaisons.
