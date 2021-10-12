@@ -25,7 +25,7 @@ Markdown==3.1.1
 matplotlib==3.1.0
 nested-lookup==0.2.15
 numpy==1.16.4
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 pandas==0.24.2
 Pillow==6.0.0
 progressbar==2.5
